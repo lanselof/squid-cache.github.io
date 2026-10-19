@@ -50,7 +50,6 @@ patch and build script for the bundled Squid:
 
   - 64-bit: <https://squidproxypro.com/download.php>
 
-### Squid-4
 
 Maintainer: Rafael Akchurin, [Diladele B.V.](http://www.diladele.com/)
 
